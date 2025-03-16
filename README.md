@@ -13,5 +13,3 @@ Ce projet s'inspire des travaux suivants :
 - **Grahame Earley**. *MCMC Decryptor Repository.* [Lien vers le dépôt GitHub](https://github.com/grahamearley/MCMC_Decryptor)
 
 Ces références ont fortement influencé l'approche et les méthodologies utilisées dans ce projet.
-
-## Merci a Valentin :) 
