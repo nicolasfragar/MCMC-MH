@@ -14,4 +14,4 @@ Ce projet s'inspire des travaux suivants :
 
 Ces références ont fortement influencé l'approche et les méthodologies utilisées dans ce projet.
 
-## Merci a Valentin aussi
+## Merci a Valentin :) 
